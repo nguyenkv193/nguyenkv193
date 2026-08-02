@@ -4,17 +4,8 @@
 </div>
 
 <div align="center">
-  <img
-    align="top"
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=nguyenkv193&show_icons=true&theme=default&hide_border=true"
-  />
-
-  <img
-    align="top"
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenkv193&layout=compact&theme=default&hide_border=true"
-  />
+  <img align="top" width="49%" src="https://github-stats-extended.vercel.app/api?username=nguyenkv193&show_icons=true&theme=default&hide_border=true" />
+  <img align="top" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenkv193&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ## 👨‍💻 About me
