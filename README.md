@@ -16,48 +16,8 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts" />
-</p>
-
-### 🎨 Frontend Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
-</p>
-
-<p align="center">
-  Redux Toolkit · Zustand
-</p>
-
-### 🎨 Styling Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass" />
-</p>
-
-<p align="center">
-  CSS Modules
-</p>
-
-### ⚙️ Backend Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p align="center">
-  JSON Web Token · RESTful API
-</p>
-
-### 🧰 Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
-</p>
-
-<p align="center">
-  DBeaver
-</p>
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,redux,vue,tailwind,sass,nodejs,express,spring,hibernate,git,github,postman,vscode,docker&perline=8" />
+  </a>
+</div>
