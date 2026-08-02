@@ -18,6 +18,6 @@
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,redux,vue,tailwind,sass,nodejs,express,spring,hibernate,git,github,postman,vscode,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,redux,vue,tailwind,sass,nodejs,express,spring,hibernate,git,github,postman,vscode,docker&perline=20" />
   </a>
 </div>
