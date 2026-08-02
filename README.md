@@ -14,8 +14,50 @@
 - 🔭 Building backend applications
 - 💬 Interested in REST API, databases and clean code
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
+
+### 🎨 Frontend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux" />
+</p>
+
+<p align="center">
+  Redux Toolkit · Zustand
+</p>
+
+### 🎨 Styling Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,sass" />
+</p>
+
+<p align="center">
+  CSS Modules
+</p>
+
+### ⚙️ Backend Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p align="center">
+  JSON Web Token · RESTful API
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
+
+<p align="center">
+  DBeaver
 </p>
