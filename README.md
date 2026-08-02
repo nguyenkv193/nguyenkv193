@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>Hi 👋, I'm Nguyen</h1>
+  <h1>Hi Everyone👋, I'm Khuat Van Nguyen</h1>
   <p>Java & Spring Boot Developer</p>
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nguyenkv193&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenkv193&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=nguyenkv193&show_icons=true&theme=default&hide_border=true" />
+
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nguyenkv193&layout=compact&theme=default&hide_border=true" />
 </div>
 
 ## 👨‍💻 About me
